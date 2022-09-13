@@ -24,4 +24,3 @@ Dataset Link - [IBM HR Analytics Employee Attrition & Performance](https://www.k
 
 Made a WEB API using [Flask](https://flask.palletsprojects.com/en/1.1.x/) framework and deployed it on [Heroku](https://www.heroku.com/) cloud platform. Below is the link to access the API.
 
-Web API - [Employee Attrition](https://employee-attrition-pred.herokuapp.com/)
